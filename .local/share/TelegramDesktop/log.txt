@@ -1,0 +1,258 @@
+[2021.03.13 01:32:42] Launched version: 2006001, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2021.03.13 01:32:42] Executable dir: /usr/bin/, name: telegram-desktop
+[2021.03.13 01:32:42] Initial working dir: /home/red/
+[2021.03.13 01:32:42] Working dir: /home/red/.local/share/TelegramDesktop/
+[2021.03.13 01:32:42] Command line: /usr/sbin/telegram-desktop --
+[2021.03.13 01:32:42] Executable path before check: /usr/bin/telegram-desktop
+[2021.03.13 01:32:42] Logs started
+[2021.03.13 01:32:42] Launcher filename: telegramdesktop.desktop
+[2021.03.13 01:32:42] Getting DE, XDG_CURRENT_DESKTOP: 'KDE'
+[2021.03.13 01:32:42] Getting DE, DESKTOP_SESSION: '/usr/share/xsessions/plasma'
+[2021.03.13 01:32:42] Getting DE, KDE_SESSION_VERSION: '5'
+[2021.03.13 01:32:42] DE: KDE5
+[2021.03.13 01:32:42] Using XDG Desktop Portal.
+[2021.03.13 01:32:42] Connecting local socket to /run/user/1000/eee3f1d61558dd1f412507796206dbf1-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.03.13 01:32:42] This is the only instance of Telegram, starting server and app...
+[2021.03.13 01:32:42] Moved logging from '/home/red/.local/share/TelegramDesktop/log_start0.txt' to '/home/red/.local/share/TelegramDesktop/log.txt'!
+[2021.03.13 01:32:42] Primary screen DPI: 102
+[2021.03.13 01:32:43] OpenAL Logging Level: (not set)
+[2021.03.13 01:32:43] Audio Playback Devices: Built-in Audio Analog Stereo
+[2021.03.13 01:32:43] Audio Playback Default Device: Built-in Audio Analog Stereo
+[2021.03.13 01:32:43] Audio Capture Devices: Built-in Audio Analog Stereo;Monitor of Built-in Audio Analog Stereo
+[2021.03.13 01:32:43] Audio Capture Default Device: Built-in Audio Analog Stereo
+[2021.03.13 01:32:43] Not using D-Bus global menu.
+[2021.03.13 01:32:43] Using Unity launcher counter.
+[2021.03.13 01:32:43] System tray available: [TRUE]
+[2021.03.13 01:32:44] TCP Error: network - Network unreachable
+[2021.03.13 01:32:44] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:32:45] Using SNI tray icon.
+[2021.03.13 01:32:45] Notification daemon product name: Plasma
+[2021.03.13 01:32:45] Notification daemon vendor name: KDE
+[2021.03.13 01:32:45] Notification daemon version: 5.21.2
+[2021.03.13 01:32:45] Notification daemon specification version: 1.2
+[2021.03.13 01:32:45] Notification daemon capabilities: body, body-hyperlinks, body-markup, body-images, icon-static, actions, inline-reply, x-kde-urls, x-kde-origin-name, x-kde-display-appname, inhibitions
+[2021.03.13 01:32:46] TCP Error: network - Network unreachable
+[2021.03.13 01:32:46] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:32:52] TCP Error: network - Network unreachable
+[2021.03.13 01:32:52] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:33:33] Export Info: Destroy top bar by controller removal.
+[2021.03.13 01:33:34] TCP Error: network - Network unreachable
+[2021.03.13 01:33:34] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:33:34] TCP Error: network - Network unreachable
+[2021.03.13 01:33:34] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:33:34] TCP Error: network - Network unreachable
+[2021.03.13 01:33:34] TCP Error: network - Network unreachable
+[2021.03.13 01:33:34] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:33:34] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:33:36] Update Info: Starting loading '/home/red/.local/share/TelegramDesktop/tdata/dictionaries/en_US/en_US' from 0 offset.
+[2021.03.13 01:33:36] Update Info: Loading using MTP from '1'.
+[2021.03.13 01:33:36] TCP Error: network - Network unreachable
+[2021.03.13 01:33:36] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:33:36] TCP Error: network - Network unreachable
+[2021.03.13 01:33:36] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:33:37] Message Info: bad message notification received (error_code 33) for msg_id = 6939023111056115768, seq_no = 28
+[2021.03.13 01:33:37] Message Info: bad message notification received, msgId 6939023111056115768, error_code 33
+[2021.03.13 01:33:37] Message Info: bad message notification received (error_code 33) for msg_id = 6939023111088245440, seq_no = 74
+[2021.03.13 01:33:37] TCP Error: network - Network unreachable
+[2021.03.13 01:33:37] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:33:37] Message Info: bad message notification received (error_code 33) for msg_id = 6939023111053633152, seq_no = 12
+[2021.03.13 01:33:37] Message Info: bad message notification received, msgId 6939023111053633152, error_code 33
+[2021.03.13 01:33:37] TCP Error: network - Network unreachable
+[2021.03.13 01:33:37] Message Info: bad message notification received (error_code 33) for msg_id = 6939023111081109060, seq_no = 12
+[2021.03.13 01:33:37] Message Info: bad message notification received, msgId 6939023111081109060, error_code 33
+[2021.03.13 01:33:37] TCP Error: network - Network unreachable
+[2021.03.13 01:33:37] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:33:37] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:33:37] TCP Error: network - Network unreachable
+[2021.03.13 01:33:37] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:33:39] TCP Error: error packet received, endpoint: '149.154.165.96:443', protocolDcId: -4, code = -404
+[2021.03.13 01:33:39] MTP Info: -404 error received in 160004 with temporary key, assuming it was destroyed.
+[2021.03.13 01:33:39] TCP Error: network - Network unreachable
+[2021.03.13 01:33:39] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:33:40] TCP Error: network - Network unreachable
+[2021.03.13 01:33:40] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:34:41] TCP Error: network - Network unreachable
+[2021.03.13 01:34:41] TCP Error: network - Network unreachable
+[2021.03.13 01:34:41] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:34:41] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:34:41] TCP Error: network - Network unreachable
+[2021.03.13 01:34:41] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:34:45] API Warning: emoji 🦤 is not supported, word: bird.
+[2021.03.13 01:34:45] API Warning: emoji 🦤 is not supported, word: bird.
+[2021.03.13 01:34:45] API Warning: emoji 🇹🇦 is not supported, word: flag.
+[2021.03.13 01:34:45] API Warning: emoji 🇩🇬 is not supported, word: flag.
+[2021.03.13 01:34:45] API Warning: emoji 🇦🇨 is not supported, word: flag.
+[2021.03.13 01:34:45] API Warning: emoji 🇪🇦 is not supported, word: flag.
+[2021.03.13 01:34:45] API Warning: emoji 🇲🇫 is not supported, word: flag.
+[2021.03.13 01:34:45] API Warning: emoji 🇹🇦 is not supported, word: flag.
+[2021.03.13 01:34:45] API Warning: emoji 🇩🇬 is not supported, word: flag.
+[2021.03.13 01:34:45] API Warning: emoji 🇦🇨 is not supported, word: flag.
+[2021.03.13 01:34:45] API Warning: emoji 🇪🇦 is not supported, word: flag.
+[2021.03.13 01:34:45] API Warning: emoji 🇲🇫 is not supported, word: flag.
+[2021.03.13 01:34:45] API Warning: emoji 🫑 is not supported, word: food.
+[2021.03.13 01:34:45] API Warning: emoji 🫕 is not supported, word: food.
+[2021.03.13 01:34:45] API Warning: emoji 🫑 is not supported, word: food.
+[2021.03.13 01:34:45] API Warning: emoji 🫕 is not supported, word: food.
+[2021.03.13 01:34:45] API Warning: emoji 🪙 is not supported, word: money.
+[2021.03.13 01:34:45] API Warning: emoji 🪙 is not supported, word: money.
+[2021.03.13 01:34:45] API Warning: emoji 🥸 is not supported, word: nose.
+[2021.03.13 01:34:45] API Warning: emoji 🥸 is not supported, word: nose.
+[2021.03.13 01:34:45] API Warning: emoji 🦤 is not supported, word: dodo.
+[2021.03.13 01:34:45] API Warning: emoji 🛻 is not supported, word: pickup.
+[2021.03.13 01:34:45] API Warning: emoji 🫀 is not supported, word: heart.
+[2021.03.13 01:34:45] API Warning: emoji 🫀 is not supported, word: heart.
+[2021.03.13 01:34:45] API Warning: emoji 🪰 is not supported, word: fly.
+[2021.03.13 01:34:45] API Warning: emoji 🪲 is not supported, word: bug.
+[2021.03.13 01:34:45] API Warning: emoji 🪦 is not supported, word: headstone.
+[2021.03.13 01:34:45] API Warning: emoji 🇩🇬 is not supported, word: diego garcia.
+[2021.03.13 01:34:45] API Warning: emoji 🫐 is not supported, word: berry.
+[2021.03.13 01:34:45] API Warning: emoji 🫐 is not supported, word: berry.
+[2021.03.13 01:34:45] API Warning: emoji 🥷 is not supported, word: ninja.
+[2021.03.13 01:34:45] API Warning: emoji 🪨 is not supported, word: rock.
+[2021.03.13 01:34:45] API Warning: emoji 🪨 is not supported, word: rock.
+[2021.03.13 01:34:45] API Warning: emoji 🪅 is not supported, word: piñata.
+[2021.03.13 01:34:45] API Warning: emoji 🛗 is not supported, word: lift.
+[2021.03.13 01:34:45] API Warning: emoji 🛗 is not supported, word: lift.
+[2021.03.13 01:34:45] API Warning: emoji 🛖 is not supported, word: hut.
+[2021.03.13 01:34:45] API Warning: emoji 🪄 is not supported, word: magic.
+[2021.03.13 01:34:45] API Warning: emoji 🧑‍🤝‍🧑 is not supported, word: bf.
+[2021.03.13 01:34:45] API Warning: emoji 🪟 is not supported, word: window.
+[2021.03.13 01:34:45] API Warning: emoji 🤵‍♂ is not supported, word: tuxedo.
+[2021.03.13 01:34:45] API Warning: emoji 🤵‍♀ is not supported, word: tuxedo.
+[2021.03.13 01:34:45] API Warning: emoji 🤵‍♂ is not supported, word: tuxedo.
+[2021.03.13 01:34:45] API Warning: emoji 🤵‍♀ is not supported, word: tuxedo.
+[2021.03.13 01:34:45] API Warning: emoji 🧋 is not supported, word: bubbletea.
+[2021.03.13 01:34:45] API Warning: emoji 🫔 is not supported, word: tamale.
+[2021.03.13 01:34:45] API Warning: emoji 🪥 is not supported, word: toothbrush.
+[2021.03.13 01:34:45] API Warning: emoji 🪚 is not supported, word: hand saw.
+[2021.03.13 01:34:45] API Warning: emoji 🪧 is not supported, word: sign on post.
+[2021.03.13 01:34:45] API Warning: emoji 🤵‍♂ is not supported, word: man.
+[2021.03.13 01:34:45] API Warning: emoji 🤵‍♂ is not supported, word: man.
+[2021.03.13 01:34:45] API Warning: emoji 🛼 is not supported, word: roller skate.
+[2021.03.13 01:34:45] API Warning: emoji 🪰 is not supported, word: insect.
+[2021.03.13 01:34:45] API Warning: emoji 🪳 is not supported, word: insect.
+[2021.03.13 01:34:45] API Warning: emoji 🪳 is not supported, word: insect.
+[2021.03.13 01:34:45] API Warning: emoji 🦭 is not supported, word: seal.
+[2021.03.13 01:34:45] API Warning: emoji 🪱 is not supported, word: worm.
+[2021.03.13 01:34:45] API Warning: emoji 🛗 is not supported, word: elevator.
+[2021.03.13 01:34:45] API Warning: emoji 🪄 is not supported, word: wand.
+[2021.03.13 01:34:45] API Warning: emoji 🫐 is not supported, word: blueberries.
+[2021.03.13 01:34:45] API Warning: emoji 🪜 is not supported, word: ladder.
+[2021.03.13 01:34:45] API Warning: emoji 🇹🇦 is not supported, word: ta.
+[2021.03.13 01:34:45] API Warning: emoji 🪆 is not supported, word: matryoshka.
+[2021.03.13 01:34:45] API Warning: emoji 🪣 is not supported, word: bucket.
+[2021.03.13 01:34:45] API Warning: emoji 🪳 is not supported, word: cockroach.
+[2021.03.13 01:34:45] API Warning: emoji 🏳‍⚧ is not supported, word: trans.
+[2021.03.13 01:34:45] API Warning: emoji 🪴 is not supported, word: houseplant.
+[2021.03.13 01:34:45] API Warning: emoji 🫂 is not supported, word: hug.
+[2021.03.13 01:34:45] API Warning: emoji 🫂 is not supported, word: hug.
+[2021.03.13 01:34:45] API Warning: emoji 🫔 is not supported, word: tamal.
+[2021.03.13 01:34:45] API Warning: emoji 🐻‍❄ is not supported, word: animal.
+[2021.03.13 01:34:45] API Warning: emoji 🦭 is not supported, word: animal.
+[2021.03.13 01:34:45] API Warning: emoji 🦣 is not supported, word: animal.
+[2021.03.13 01:34:45] API Warning: emoji 🐈‍⬛ is not supported, word: animal.
+[2021.03.13 01:34:45] API Warning: emoji 🦬 is not supported, word: animal.
+[2021.03.13 01:34:45] API Warning: emoji 🦫 is not supported, word: animal.
+[2021.03.13 01:34:45] API Warning: emoji 🪢 is not supported, word: knot.
+[2021.03.13 01:34:45] API Warning: emoji 🪧 is not supported, word: protest sign.
+[2021.03.13 01:34:45] API Warning: emoji ⚧ is not supported, word: transgenderness.
+[2021.03.13 01:34:45] API Warning: emoji 🏳‍⚧ is not supported, word: transgenderness.
+[2021.03.13 01:34:45] API Warning: emoji 🫖 is not supported, word: teapot.
+[2021.03.13 01:34:45] API Warning: emoji 🤵‍♀ is not supported, word: woman.
+[2021.03.13 01:34:45] API Warning: emoji 🤵‍♀ is not supported, word: woman.
+[2021.03.13 01:34:45] API Warning: emoji 🪖 is not supported, word: military helmet.
+[2021.03.13 01:34:45] API Warning: emoji 🫓 is not supported, word: flatbread.
+[2021.03.13 01:34:45] API Warning: emoji 🫓 is not supported, word: flatbread.
+[2021.03.13 01:34:45] API Warning: emoji 🪙 is not supported, word: coin.
+[2021.03.13 01:34:45] API Warning: emoji 🧑‍🎄 is not supported, word: santa.
+[2021.03.13 01:34:45] API Warning: emoji 🪚 is not supported, word: carpentry saw.
+[2021.03.13 01:34:45] API Warning: emoji 👰‍♂ is not supported, word: man with veil.
+[2021.03.13 01:34:45] API Warning: emoji 🛼 is not supported, word: inline skate.
+[2021.03.13 01:34:45] API Warning: emoji 🪠 is not supported, word: plunger.
+[2021.03.13 01:34:45] API Warning: emoji 🏳‍⚧ is not supported, word: transgender flag.
+[2021.03.13 01:34:45] API Warning: emoji 🪴 is not supported, word: potted plant.
+[2021.03.13 01:34:45] API Warning: emoji 👨‍🍼 is not supported, word: man feeding baby.
+[2021.03.13 01:34:45] API Warning: emoji 🪶 is not supported, word: feather.
+[2021.03.13 01:34:45] API Warning: emoji 🦫 is not supported, word: beaver.
+[2021.03.13 01:34:45] API Warning: emoji 🛼 is not supported, word: roller derby.
+[2021.03.13 01:34:45] API Warning: emoji 🛻 is not supported, word: truck.
+[2021.03.13 01:34:45] API Warning: emoji 🛻 is not supported, word: truck.
+[2021.03.13 01:34:45] API Warning: emoji 🩴 is not supported, word: jandals.
+[2021.03.13 01:34:45] API Warning: emoji 🪄 is not supported, word: magic.
+[2021.03.13 01:34:45] API Warning: emoji 🪆 is not supported, word: nesting dolls.
+[2021.03.13 01:34:45] API Warning: emoji 🫂 is not supported, word: people hugging.
+[2021.03.13 01:34:45] API Warning: emoji 🧋 is not supported, word: milktea.
+[2021.03.13 01:34:45] API Warning: emoji 🇦🇨 is not supported, word: ascension island.
+[2021.03.13 01:34:45] API Warning: emoji 🇦🇨 is not supported, word: ac.
+[2021.03.13 01:34:45] API Warning: emoji 🩴 is not supported, word: flip flops.
+[2021.03.13 01:34:45] API Warning: emoji 🫕 is not supported, word: fondue.
+[2021.03.13 01:34:45] API Warning: emoji 🪲 is not supported, word: beetle.
+[2021.03.13 01:34:45] API Warning: emoji 🇦🇨 is not supported, word: flag_ac.
+[2021.03.13 01:34:45] API Warning: emoji 🪦 is not supported, word: tombstone.
+[2021.03.13 01:34:45] API Warning: emoji 🧑‍🎄 is not supported, word: mx claus.
+[2021.03.13 01:34:45] API Warning: emoji 🫑 is not supported, word: vegetables.
+[2021.03.13 01:34:45] API Warning: emoji 🐈‍⬛ is not supported, word: black cat.
+[2021.03.13 01:34:45] API Warning: emoji 👰‍♀ is not supported, word: veil.
+[2021.03.13 01:34:45] API Warning: emoji 🫑 is not supported, word: bell pepper.
+[2021.03.13 01:34:45] API Warning: emoji 🦬 is not supported, word: bison.
+[2021.03.13 01:34:45] API Warning: emoji 🪧 is not supported, word: placard.
+[2021.03.13 01:34:45] API Warning: emoji 🥲 is not supported, word: happytear.
+[2021.03.13 01:34:45] API Warning: emoji 🇹🇦 is not supported, word: tristan da cunha.
+[2021.03.13 01:34:45] API Warning: emoji 🧋 is not supported, word: boba.
+[2021.03.13 01:34:45] API Warning: emoji 🪝 is not supported, word: hook.
+[2021.03.13 01:34:45] API Warning: emoji 🫓 is not supported, word: arepa.
+[2021.03.13 01:34:45] API Warning: emoji 🫁 is not supported, word: organ.
+[2021.03.13 01:34:45] API Warning: emoji 🪤 is not supported, word: mouse trap.
+[2021.03.13 01:34:45] API Warning: emoji 🪅 is not supported, word: pinata.
+[2021.03.13 01:34:45] API Warning: emoji 🪗 is not supported, word: accordion.
+[2021.03.13 01:34:45] API Warning: emoji 🩴 is not supported, word: thongs.
+[2021.03.13 01:34:45] API Warning: emoji 🤌 is not supported, word: pinched fingers.
+[2021.03.13 01:34:45] API Warning: emoji 🇩🇬 is not supported, word: british indian ocean territory.
+[2021.03.13 01:34:45] API Warning: emoji 🧑‍🍼 is not supported, word: person feeding baby.
+[2021.03.13 01:34:45] API Warning: emoji 🧋 is not supported, word: bubble tea.
+[2021.03.13 01:34:45] API Warning: emoji 🫁 is not supported, word: lung.
+[2021.03.13 01:34:45] API Warning: emoji 🇹🇦 is not supported, word: flag_ta.
+[2021.03.13 01:34:45] API Warning: emoji 🪞 is not supported, word: mirror.
+[2021.03.13 01:34:45] API Warning: emoji 🫒 is not supported, word: olive.
+[2021.03.13 01:34:45] API Warning: emoji 🧋 is not supported, word: boba tea.
+[2021.03.13 01:34:45] API Warning: emoji 🪵 is not supported, word: wood.
+[2021.03.13 01:34:45] API Warning: emoji 🪧 is not supported, word: sign.
+[2021.03.13 01:34:45] API Warning: emoji 🇲🇫 is not supported, word: st. martin.
+[2021.03.13 01:34:45] API Warning: emoji 🐻‍❄ is not supported, word: polar bear.
+[2021.03.13 01:34:45] API Warning: emoji 🪡 is not supported, word: sewing needle.
+[2021.03.13 01:34:45] API Warning: emoji 🥸 is not supported, word: incognito.
+[2021.03.13 01:34:45] API Warning: emoji 🥲 is not supported, word: tear.
+[2021.03.13 01:34:45] API Warning: emoji 🇪🇦 is not supported, word: ceuta & melilla.
+[2021.03.13 01:34:45] API Warning: emoji 🪧 is not supported, word: lawn sign.
+[2021.03.13 01:34:45] API Warning: emoji 🪛 is not supported, word: screwdriver.
+[2021.03.13 01:34:45] API Warning: emoji ⚧ is not supported, word: transgender sign.
+[2021.03.13 01:34:45] API Warning: emoji 👩‍🍼 is not supported, word: woman feeding baby.
+[2021.03.13 01:34:45] API Warning: emoji 🥸 is not supported, word: glasses.
+[2021.03.13 01:34:45] API Warning: emoji 🪘 is not supported, word: long drum.
+[2021.03.13 01:34:45] API Warning: emoji 🪃 is not supported, word: boomerang.
+[2021.03.13 01:34:45] API Warning: emoji 🥸 is not supported, word: disguised face.
+[2021.03.13 01:34:45] API Warning: emoji ⚧ is not supported, word: transgender symbol.
+[2021.03.13 01:34:45] API Warning: emoji 🤌 is not supported, word: finger purse.
+[2021.03.13 01:34:45] API Warning: emoji 🫁 is not supported, word: breathing.
+[2021.03.13 01:34:45] API Warning: emoji 🦣 is not supported, word: mammoth.
+[2021.03.13 01:34:45] API Warning: emoji 🫂 is not supported, word: hug gesture.
+[2021.03.13 01:34:45] API Warning: emoji 🩴 is not supported, word: thong sandal.
+[2021.03.13 01:34:45] API Warning: emoji 🫁 is not supported, word: lungs.
+[2021.03.13 01:35:37] Audio Info: recreating audio device and reattaching the tracks
+[2021.03.13 01:35:39] Audio Info: Closing audio playback device.
+[2021.03.13 01:36:11] TCP Error: network - Network unreachable
+[2021.03.13 01:36:11] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:36:11] TCP Error: network - Network unreachable
+[2021.03.13 01:36:11] TCP Error: network - Network unreachable
+[2021.03.13 01:36:11] TCP Error: network - Network unreachable
+[2021.03.13 01:36:11] TCP Error: network - Network unreachable
+[2021.03.13 01:36:11] TCP Error: network - Network unreachable
+[2021.03.13 01:36:11] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:36:11] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:36:11] TCP Error: network - Network unreachable
+[2021.03.13 01:36:11] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:36:11] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:36:11] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:36:11] HTTP Error: network error 99 - Network unreachable
+[2021.03.13 01:38:02] Audio Info: recreating audio device and reattaching the tracks
+[2021.03.13 01:38:04] Audio Info: Closing audio playback device.

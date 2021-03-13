@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=inode-directory
+Name=.lua
+Type=Link
+URL[$e]=file:$HOME/.lua
+X-KDE-LastOpenedWith=

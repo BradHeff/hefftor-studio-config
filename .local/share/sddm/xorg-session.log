@@ -1,0 +1,302 @@
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 830, result = 0
+kdeinit5: opened connection to :0
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/red/.gtkrc:/home/red/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/red/.gtkrc-2.0:/home/red/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_THEME=Bibata-Modern-Ice' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/red-virtualbox:@/tmp/.ICE-unix/884,unix/red-virtualbox:/tmp/.ICE-unix/884' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/red-virtualbox:@/tmp/.ICE-unix/884,unix/red-virtualbox:/tmp/.ICE-unix/884' from launcher.
+conky: desktop window (533) is root window
+conky: window type - normal
+conky: drawing to created window (0x1e00002)
+conky: drawing to double buffer
+conky: forked to background, pid is 963
+
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+blueman-applet 23.38.02 WARNING  PluginManager:148 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+MPD error: Connection refused
+MPD error: Connection refused
+blueman-applet 23.38.03 WARNING  PluginManager:148 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+error: package 'firefox' was not found
+error: package 'spotify' was not found
+error: package 'code' was not found
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+error: package 'mpv' was not found
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+error: package 'smplayer' was not found
+error: package 'filezilla' was not found
+error: package 'thinderbird' was not found
+MPD error: Connection refused
+MPD error: Connection refused
+error: package 'plank' was not found
+error: package 'libreoffice-fresh' was not found
+error: package 'gimp' was not found
+error: package 'timeshift' was not found
+error: package 'telegram-desktop' was not found
+error: package 'discord' was not found
+MPD error: Connection refused
+MPD error: Connection refused
+error: package 'supertuxkart' was not found
+error: package 'supertux' was not found
+error: package 'lutris' was not found
+error: package 'arcolinux-meta-steam' was not found
+error: package 'winetricks' was not found
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+MPD error: Connection refused
+Mar 12 23:38 : exception: Failed to access /home/red/.config/mpd/playlists: No such file or directory
+Mar 12 23:38 : exception: Decoder plugin 'wildmidi' is unavailable: configuration file does not exist: /etc/timidity/timidity.cfg
+Mar 12 23:38 : exception: Failed to open '/home/red/.config/mpd/mpd.db': No such file or directory
+blueman-applet 23.38.22 WARNING  DiscvManager:109 update_menuitems: warning: Adapter is None
+** Message: 23:38:36.127: updates_checker.vala:71: check updates
+** Message: 23:38:38.676: updates_checker.vala:101: 0 updates found
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/desktop.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/desktop.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 2848 terminated.
+kdeinit5: PID 2750 terminated.
+kdeinit5: PID 3084 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: PID 22366 terminated.
+** Message: 00:01:59.026: updates_checker.vala:71: check updates
+** Message: 00:02:00.088: updates_checker.vala:101: 0 updates found
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: PID 127653 terminated.
+kdeinit5: PID 126509 terminated.
+kdeinit5: PID 126512 terminated.
+kdeinit5: PID 126513 terminated.
+kdeinit5: PID 126511 terminated.
+kdeinit5: PID 126510 terminated.
+kdeinit5: PID 126514 terminated.
+** Message: 00:38:06.228: updates_checker.vala:71: check updates
+** Message: 00:38:06.587: updates_checker.vala:101: 0 updates found
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+01:18:17: Warning: Mismatch between the program and library build versions detected.
+The library used 3.0 (wchar_t,compiler with C++ ABI 1014,wx containers,compatible with 2.8),
+and your program used 3.0 (wchar_t,compiler with C++ ABI 1013,wx containers,compatible with 2.8).
+kdeinit5: PID 188696 terminated.
+kdeinit5: PID 188689 terminated.
+kdeinit5: PID 188691 terminated.
+kdeinit5: PID 188690 terminated.
+kdeinit5: PID 188697 terminated.
+kdeinit5: PID 189353 terminated.
+kdeinit5: PID 189354 terminated.
+kdeinit5: PID 189343 terminated.
+kdeinit5: PID 189352 terminated.
+kdeinit5: PID 189355 terminated.
+[204325:204325:0313/013153.804334:ERROR:vaapi_wrapper.cc(573)] Could not get a valid VA display
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 204593 terminated.
+** Message: 01:32:37.410: updates_checker.vala:71: check updates
+** Message: 01:32:38.324: updates_checker.vala:101: 0 updates found
+
+** (process:205591): WARNING **: 01:32:42.017: Unfortunately, GTK integration conflicts with qgtk2 platformtheme and style. Therefore, QT_QPA_PLATFORMTHEME and QT_STYLE_OVERRIDE will be unset.
+** Message: 01:32:42.018: This can be ignored by setting DESKTOP_APP_I_KNOW_ABOUT_GTK_INCOMPATIBILITY environment variable to any value, however, if qgtk2 theme or style is used, this will lead to a crash.
+** Message: 01:32:42.018: GTK integration can be disabled by setting DESKTOP_APP_DISABLE_GTK_INTEGRATION to any value. Keep in mind that this will lead to some features being unavailable.
+
+(process:205591): Telegram-WARNING **: 01:32:42.018: Application was built without embedded fonts, this may lead to font issues.
+[ALSOFT] (EE) Failed to set real-time priority for thread: Operation not permitted (1)
+error: : cannot open
+error: : cannot open
+error: : cannot open
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: PID 204617 terminated.
+kdeinit5: PID 188695 terminated.
+Invalid return value 0 for stream protocol
+Invalid return value 0 for stream protocol
+[ALSOFT] (EE) Failed to set real-time priority for thread: Operation not permitted (1)
+[ALSOFT] (EE) Failed to set real-time priority for thread: Operation not permitted (1)
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 204599 terminated.
+kdeinit5: PID 207722 terminated.
+kdeinit5: PID 211471 terminated.
+kdeinit5: PID 211468 terminated.
+** Message: 01:38:07.128: updates_checker.vala:71: check updates
+** Message: 01:38:07.468: updates_checker.vala:101: 0 updates found
+kdeinit5: PID 207437 terminated.
+kdeinit5: PID 207442 terminated.
+kdeinit5: PID 207436 terminated.
+kdeinit5: PID 207443 terminated.
+kdeinit5: PID 207719 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
